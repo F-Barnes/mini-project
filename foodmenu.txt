@@ -1,0 +1,10 @@
+Sandwich
+Bagel
+Hot Chocolate
+Mocha
+Orange Juice
+Waffle
+Egg
+Sausage
+Cake
+Toast
